@@ -1,0 +1,26 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="GameManager">
+			<method name="onPause"/>
+		</type>
+		<type fullname="GameOver">
+			<method name="gotoMenu"/>
+			<method name="Replay"/>
+		</type>
+		<type fullname="Home">
+			<method name="Option"/>
+			<method name="Play"/>
+			<method name="Ship"/>
+		</type>
+		<type fullname="SelectShip">
+			<method name="gotoMenu"/>
+			<method name="nextCharacter"/>
+			<method name="prevCharacter"/>
+		</type>
+		<type fullname="VolumeSetting">
+			<method name="gotoHome"/>
+			<method name="SetMusicVolume"/>
+			<method name="SetSfxVolume"/>
+		</type>
+	</assembly>
+</linker>

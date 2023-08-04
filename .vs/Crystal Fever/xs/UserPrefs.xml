@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F22E6835-4F9C-BFF6-B578-4B0DD9016F76}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/wall.cs">
+    <Files>
+      <File FileName="Assets/Script/Player.cs" Line="27" Column="1" />
+      <File FileName="Assets/Script/GameManager.cs" Line="12" Column="1" />
+      <File FileName="Assets/GameManager.cs" Line="31" Column="28" />
+      <File FileName="Assets/GameOver.cs" Line="16" Column="1" />
+      <File FileName="Assets/Script/AudioManager.cs" Line="9" Column="1" />
+      <File FileName="Assets/Script/VolumeSetting.cs" Line="52" Column="33" />
+      <File FileName="Assets/Script/Home.cs" Line="15" Column="1" />
+      <File FileName="Assets/SelectShip.cs" Line="51" Column="1" />
+      <File FileName="Assets/GameCharacter.cs" Line="7" Column="32" />
+      <File FileName="Assets/wall.cs" Line="16" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Crystal Fever" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="da672771-b3e2-4c31-9f6d-5b88b94f6ff6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
